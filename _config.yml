@@ -1,6 +1,6 @@
 title: [UNIL GSE]
 description: [Note pour GSE]
 theme: jekyll-theme-slate
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: tomjoht/documentation-theme-jekyll
 plugins:
 - jekyll-remote-theme
