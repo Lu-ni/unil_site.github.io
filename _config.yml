@@ -3,3 +3,5 @@ description: [Note pour GSE]
 remote_theme: tomjoht/documentation-theme-jekyll
 plugins:
 - jekyll-remote-theme
+
+theme: jekyll-theme-slate
