@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [test](./test.md).
-[test_html](./test.html)
+[test_html](./MetQuant.html)
 
 There should be whitespace between paragraphs.
 
